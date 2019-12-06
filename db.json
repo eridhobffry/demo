@@ -49,8 +49,20 @@
       "status": "opened"
     }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
+  "generalResults": [
+    { "id": 1,
+      "followers": 9401, 
+      "percentPie": 70,
+      "color": "#0077FF" 
+    },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "ratingsCategory": [
+    { "id": 1,
+      "followers": 3900, 
+      "percentPie": 70,
+      "color": "#F0166D" 
+    },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
