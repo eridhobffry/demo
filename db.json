@@ -70,8 +70,7 @@
       "neededToComplete": 643, 
       "percentLinear": 80,
       "color": "#0077FF" 
-    },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    }
   ],
   "profile": {
     "name": "eridhobffry"
