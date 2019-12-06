@@ -59,7 +59,7 @@
   "ratingsCategory": [
     { "id": 1,
       "followers": 3900, 
-      "percentPie": 760,
+      "percentPie": 60,
       "color": "#F0166D" 
     }
   ],
