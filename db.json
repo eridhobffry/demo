@@ -54,16 +54,14 @@
       "followers": 9401, 
       "percentPie": 60,
       "color": "#0077FF" 
-    },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    }
   ],
   "ratingsCategory": [
     { "id": 1,
       "followers": 3900, 
       "percentPie": 760,
       "color": "#F0166D" 
-    },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    }
   ],
   "topData": [
     { "id": 1,
